@@ -45,3 +45,8 @@ Potential Enhancements
 Support for ZIP file compression/decompression.
 Integration with cloud storage APIs (Google Drive, AWS S3).
 Graphical User Interface (GUI) for user-friendly file management.
+output:
+![Image](https://github.com/user-attachments/assets/bdb06f46-62c8-443a-bda0-04d11490dabc)
+![Image](https://github.com/user-attachments/assets/249a96e1-da88-4ee0-bd10-b1b9bb614865)
+![Image](https://github.com/user-attachments/assets/119d132c-e0ec-4c52-baef-b4390667bc83)
+![Image](https://github.com/user-attachments/assets/39d93c89-4a12-47f3-a91c-92c666779e21)
